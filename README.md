@@ -4,7 +4,7 @@
 
 - Installer des dépendances NPM : `npm i``
 - Démarrer l'application : `npm run dev`
-- Consulter l'application dans le navigateur : `http://localhost:5173/`
+- Consulter l'application dans le navigateur : <http://localhost:5173/>
 
 --
 
